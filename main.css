@@ -1,5 +1,7 @@
 table, tr, td{
     border: solid 1px black;
+    font-family: Franklin Gothic Medium;
+    font-style: italic;
 }
 
 .Largura{
@@ -7,21 +9,22 @@ table, tr, td{
 }
 
 #larg1{
-    width: 100px;
+    width: 110px;
 }
 
 #larg2{
-    width: 100px;
+    width: 110px;
 }
 
 #larg3{
-    width: 100px;
+    width: 110px;
 }
 
 #larg4{
-    width: 100px;
+    width: 110px;
 }
 
 #larg5{
-    width: 100px;
+    width: 110px;
 }
+
