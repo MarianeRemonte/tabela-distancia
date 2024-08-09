@@ -1,3 +1,27 @@
 table, tr, td{
     border: solid 1px black;
 }
+
+.Largura{
+    background-color: hotpink;
+}
+
+#larg1{
+    width: 100px;
+}
+
+#larg2{
+    width: 100px;
+}
+
+#larg3{
+    width: 100px;
+}
+
+#larg4{
+    width: 100px;
+}
+
+#larg5{
+    width: 100px;
+}
