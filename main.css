@@ -28,6 +28,24 @@ table, tr, td{
     width: 110px;
 }
 
+#larg6{
+    width: 110px;
+}
+
+#larg7{
+    width: 110px;
+}
+
+#larg8{
+    width: 110px;
+}
+
 #centro{
     text-align: center;
+}
+
+
+#centroo{
+    text-align: center;
+    background-color: blue;
 }
