@@ -40,6 +40,10 @@ table, tr, td{
     width: 110px;
 }
 
+#cor{
+    background-color: blue;
+}
+
 #centro{
     text-align: center;
 }
