@@ -5,10 +5,10 @@ projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
 
 ## Índicie
 
-* [Descrição] ()
-* [Tecnologias] ()
-* [Referências] ()
-* [Autor] ()
+* [Descrição](#descrição)
+* [Tecnologias](#tecnologias)
+* [Referências](#referências)
+* [Autor](#autora)
 
 ### descrição
 
@@ -24,12 +24,24 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 
 ## Tecnologias
 
-
+* HTML5
+* CSS3
+* README
+* Git
+* Github
 
 ## Referências
 
-
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
 ## Autora
 
-#### Mariane Lima Remonte Viana
+O projeto foi desenvolvido pelo grupo:
+
+* Ana Julia
+* Isabelly
+* Larissa
+* Maria Luíza
+* Mariane
+* Vitor Souza
+* Vivian
