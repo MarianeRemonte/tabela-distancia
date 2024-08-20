@@ -46,10 +46,15 @@ table, tr, td{
 
 #centro{
     text-align: center;
+    background-color: black;
 }
 
 
 #centroo{
     text-align: center;
     background-color: blue;
+}
+
+#centrooo{
+    background-color: gray;
 }
