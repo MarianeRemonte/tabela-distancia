@@ -22,6 +22,10 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * Maceió
 * Manaus
 
+### Resultado do projeto
+
+![Resultado final do projeto]()
+
 ## Tecnologias
 
 * HTML5
