@@ -44,7 +44,7 @@ Segue a imagem ilustrativa:
 
 ![Imagem ilustrativa do elemento Td sendo utilizado no código](img/Captura-td.PNG)
 
-####
+A seguir, ilustra a imagem do resultado final do projeto:
 
 ![Resultado final do projeto](img/resultado-final.PNG)
 
