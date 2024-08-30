@@ -24,7 +24,29 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 
 ### Resultado do projeto
 
-![Resultado final do projeto]()
+#### Tabela
+
+Foram usados os seguintes elementos:
+
+* Table - Cria um "Container" o qual compõe a estrutura da tabela.
+* Tr - Define linha da tabela, separando as células.
+
+Veja agora imagens dos elementos citados anteriormente:
+
+![Imagem ilustrativa dos elementos Table e Tr sendo utilizados no código](img/Captura-table-tr.PNG)
+
+
+Também foi utilizado:
+
+* Td - Adicona os conteúdos dentro das células.
+
+Segue a imagem ilustrativa:
+
+![Imagem ilustrativa do elemento Td sendo utilizado no código](img/Captura-td.PNG)
+
+####
+
+![Resultado final do projeto](img/resultado-final.PNG)
 
 ## Tecnologias
 
