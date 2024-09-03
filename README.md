@@ -48,6 +48,21 @@ A seguir, ilustra a imagem do resultado final do projeto:
 
 ![Resultado final do projeto](img/resultado-final.PNG)
 
+### Estilização
+
+O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo main.css. Nesse arquivo constam configurações de estlo apresentadas a seguir:
+
+* Estilo de cores - A cor de fundo no projeto foi definida como segue:
+
+```
+#centroo{
+    text-align: center;
+    background-color: blue;
+}
+```
+
+
+
 ## Tecnologias
 
 * HTML5
